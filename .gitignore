@@ -1,0 +1,6 @@
+*.a
+*.o
+*.so
+.DS_Store
+target
+Cargo.lock
